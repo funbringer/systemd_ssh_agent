@@ -9,7 +9,7 @@ url="https://github.com/funbringer/systemd_ssh_agent"
 license=('MIT')
 depends=('openssh' 'systemd')
 source=('ssh-agent.service' 'ssh_auth_sock.sh')
-md5sums=('73e98a4402bd8813c559745162094738'
+md5sums=('0c02ae7352e2d82f2433c97c5b388956'
          '3ba390977185803aa2797048242e4962')
 
 package() {
